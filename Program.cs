@@ -1,4 +1,4 @@
-namespace Aquino_JohnNelson_Act_GUI
+namespace Valdez_MaryAnneACTGUI
 {
     internal static class Program
     {

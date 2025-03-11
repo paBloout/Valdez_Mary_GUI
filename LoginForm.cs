@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Aquino_JohnNelson_Act_GUI
+namespace Valdez_MaryAnneACTGUI
 {
     public partial class LoginForm : Form
     {
-        private string validUsername = "Nelson";
+        private string validUsername = "mary";
         private string validPassword = "password";
         private int loginAttempts = 0;
 

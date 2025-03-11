@@ -1,4 +1,4 @@
-﻿using Aquino_JohnNelson_Act_GUI;
+﻿using Valdez_MaryAnneACTGUI;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Aquino_JohnNelson_Act_GUI
+namespace Valdez_MaryAnneACTGUI
 {
     public partial class EditForm : Form
     {
@@ -48,17 +48,17 @@ namespace Aquino_JohnNelson_Act_GUI
             // Mock implementation - replace with actual data retrieval logic
             return new UserProfile
             {
-                Name = "John Nelson Aquino",
-                Age = 24,
-                Address = "123 Main Street",
+                Name = "Mary Anne Valdez",
+                Age = 21,
+                Address = "Bongato West",
                 ContactNumber = "09123456789",
-                Email = "email@sample.co",
+                Email = "pangitninathan@gmail.com",
                 Course = "BSIT",
                 Year = "Third",
-                ParentName = "Gina Aquino",
+                ParentName = "Alma Valdez",
                 ParentContact = "09123456789",
-                Hobbies = "Programming, Gaming",
-                Nickname = "JN"
+                Hobbies = "Dancing",
+                Nickname = "Mary"
             };
         }
 
