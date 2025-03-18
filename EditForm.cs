@@ -23,7 +23,6 @@ namespace Valdez_MaryAnneACTGUI
             // Load current user profile data
             LoadUserProfile();
         }
-
         private void LoadUserProfile()
         {
             // Assuming GetUserProfile() is a method that retrieves the current user profile data
